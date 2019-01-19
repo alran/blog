@@ -1,1 +1,3 @@
 # Today I learned...
+
+[1/18/20: Node Performance API](/blog/pages/node-performance-api.html)
